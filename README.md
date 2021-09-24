@@ -1,2 +1,0 @@
-# VentaRealAPI
-Backend C#, EF
